@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    cursor: default;
 }
 
 body {
@@ -29,6 +30,10 @@ section {
 
 span {
     color: hsl(277, 64%, 61%);
+}
+
+a {
+    cursor: pointer;
 }
 
 .image {
@@ -204,7 +209,7 @@ div p {
     } 
 
     .attribution {
-        transform: translate(50%, 300%);
+        transform: translate(50%, 400%);
     }
 }
     
