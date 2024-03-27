@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontendmentor solution](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub)
-- Live Site URL: [Github/preview_card](https://susu-spec.github.io/preview_card)
+- Live Site URL: [Github/preview_card](https://susu-spec.github.io/preview-card)
 
 ## My process
 
@@ -36,4 +36,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Susu-spec)
+- Frontend Mentor - [@Susu](https://www.frontendmentor.io/profile/Susu-spec)
