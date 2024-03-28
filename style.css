@@ -121,13 +121,15 @@ div p {
 footer {
     position: relative;
     margin: 6rem;
+    display: flex;
+    align-items: center;
 }
 
 .attribution {
     margin: 0 auto;
     text-align: center;
     font-size: .9rem;
-    width: 50%;
+    /* width: 50%; */
     color: hsla(0, 0%, 100%, 0.6)
 }
 
